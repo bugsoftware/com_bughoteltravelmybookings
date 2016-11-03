@@ -2040,5 +2040,7 @@ msgid "Your account has been successfully added to our system and you will be re
 msgstr ""
 msgid "Our Team"
 msgstr ""
+msgid "Memo"
+msgstr ""
 msgid "Payment has been successfully received"
 msgstr ""
